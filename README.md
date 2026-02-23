@@ -158,7 +158,7 @@ breast.pkl
 ### 1️⃣ Clone Repository
 
 ```
-git clone gh repo clone sachinsharma19112003/breastcancer
+gh repo clone sachinsharma19112003/breastcancer
 ```
 
 ### 2️⃣ Install Dependencies
