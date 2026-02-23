@@ -197,7 +197,6 @@ The project can be deployed on:
 ## 👨‍💻 Author
 
 **Sachin Sharma**
-MCA Student | Machine Learning Enthusiast
-Aspiring Data Scientist 🚀
+ Machine Learning Enthusiast | Data Scientist 🚀
 
 
