@@ -1,18 +1,3 @@
-Sachin 👍 ye content bilkul sahi hai — aap ise direct `README.md` me paste kar sakte ho.
-
-Lekin main isko thoda **aur professional + GitHub-ready format** me polish karke de raha hoon (badges + structure improve karke). Ye version recruiters ko aur impress karega 👇
-
----
-
-# 🩺 Breast Cancer Prediction Web App using KNN
-
-![Python](https://img.shields.io/badge/Python-3.9-blue)
-![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)
-![ML](https://img.shields.io/badge/Machine%20Learning-KNN-green)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
----
-
 ## 📌 Project Overview
 
 This project is a Machine Learning–based web application that predicts whether a breast tumor is **Benign (Non-Cancerous)** or **Malignant (Cancerous)** using the K-Nearest Neighbors (KNN) algorithm.
@@ -186,17 +171,14 @@ The Accuracy vs K visualization helps determine the optimal K for best classific
 
 ## 🌐 Deployment Options
 
-The project can be deployed on:
+The project can be deployed on: https://breastcancer-n8gxwj5k4mj2qiavsxpnj7.streamlit.app/
 
 * Streamlit Cloud
-* Render
-* Railway
 
----
 
 ## 👨‍💻 Author
 
 **Sachin Sharma**
- Machine Learning Enthusiast | Data Scientist 🚀
+ Machine Learning Engineer | Data Scientist 🚀
 
 
